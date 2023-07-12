@@ -94,9 +94,8 @@ main section{
     color: rgba(39, 39, 39, 0.60);
     text-align: center;
     font-size: 12px;
-    font-style: normal;
     font-weight: 400;
-    padding: 12px 20px;
+    padding: 15px 20px;
 }
 
 .flowertree-div{
@@ -143,6 +142,158 @@ main section{
     line-height: 40px;
 
 }
+
+
+/* Optional part section start */
+
+.optional-section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 8px;
+    margin: 20px;
+    /* padding: 25px 40px 100px; */
+
+   
+}
+
+.free-support{
+    max-width: 1440px;
+    background: rgba(39, 39, 39, 0.05);
+    padding: 25px 46px; 
+   
+}
+
+.free-support-img{
+    width: 50px;
+    margin: 20px 48px;
+    align-items: center;
+}
+
+.free-support-title{
+    color: rgba(39, 39, 39, 0.80);
+    font-size: 10px;
+    font-weight: 400;
+    align-items: center;
+    margin: 0px 10px;
+    text-align: center;
+    line-height: 0;
+
+    
+}
+
+/* Optional part section stop */
+
+
+
+
+/* Hot Deal section start */
+
+
+
+
+.hot-deal-container{
+    background-color:rgba(229, 84, 115, 0.10);;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+
+}
+
+.hot-deal-banner{
+    margin:120px 120px 0 100px;
+    text-align: center;
+
+}
+
+
+
+.hot-deal-title{
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+
+}
+
+.off{
+    color: #E55473;
+}
+
+.hot-deal-description{
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+
+
+
+.hot-deal-btn{
+    padding: 10px 23px;
+    gap: 10px;
+    border-radius: 8px;
+    background: #E55473;
+    margin-top: 5px;
+}
+
+ /* Hot Deal section stop */
+
+
+
+
+/* instagram section start */
+
+.instagram-div{
+    display: flex;
+    justify-content: center;
+    text-align: center;     
+}
+
+
+.instagram-sub-div{
+    margin: 14px 2px;
+}
+
+.insta-img{
+    margin: 10px;
+    height: 250px;
+    width: 160px;
+
+}
+
+
+ 
+
+
+
+/* instagram section stop */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
